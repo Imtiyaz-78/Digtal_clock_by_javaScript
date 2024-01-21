@@ -76,7 +76,7 @@ body {
         place-content: center;
         position: absolute;
         left: 1.2%;
-        top: 43.5%;
+        top: 46.5%;
         font-size: 63px;
         font-weight: 900;
         color: #2a0bc3;
@@ -86,7 +86,7 @@ body {
     h1{
         font-size: 40px;
         color: rgba(5, 29, 102, 0.903);
-        margin-top: -80px;
+        margin-top: -65px;
         margin-right: 15px;
     }
 
